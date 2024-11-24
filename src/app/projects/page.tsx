@@ -20,7 +20,7 @@ const page = () => {
                                 Soy un desarrollador 100% autodidacta, he participado en proyectos de alto impacto
                                 desarrollando tanto frontend como backend{" "}
                                 <Link
-                                    href={DATA.contact.social.WhatsApp.url}
+                                    href={DATA.WhatsApp.url}
                                     target="_blank"
                                     className="text-blue-500 font-bold pb-0.5"
                                 >
