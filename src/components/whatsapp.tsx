@@ -8,7 +8,7 @@ export function WhatsApp() {
   };
 
   return (
-    <div className="whatsapp-btn fixed right-0	bottom-0 z-50 flex justify-center content-center pb-3 pr-3">
+    <div className="whatsapp-btn fixed right-0 md:right-0 bottom-12 md:bottom-5 z-50 flex justify-center content-center pb-3 pr-3">
       <div onClick={openNew}>
         <p>Hagamos contacto</p>
       </div>

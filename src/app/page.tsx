@@ -92,7 +92,7 @@ export default function Page() {
         <div className="grid items-center justify-center gap-4 px-4 text-center md:px-6 w-full py-12">
           <BlurFade delay={BLUR_FADE_DELAY * 9}>
             <div className="space-y-3">
-              <h3 className="text-2xl grid sm:block font-bold tracking-tighter sm:text-3xl">
+              <h3 className="text-2xl block font-bold tracking-tighter sm:text-3xl">
                 Descarga mi{" "}
                 <Link
                   href="/CV-JONATAN 2024_DESARROLLADOR.pdf"
